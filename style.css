@@ -1,0 +1,78 @@
+.clothes{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding: 40px 10% 10%;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+
+}
+nav ul li a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-weight: 100px;
+}
+.logo{
+    color: black;
+    font-size: 60px;
+    font-style: italic;
+}
+span{
+    color: blue;
+}
+.shop{
+align-items: center;
+font-size: large;
+}
+#twice{
+    font-size: 130px;
+    align-content: center;
+    color: chartreuse;
+}
+
+#shop{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+   margin-left: 60%;
+    display: flex;
+    font-size: 28px;
+}
+#h2{
+    font-size: large;
+    font-size: 130px;
+}
+#jp{
+    float: right;
+    height: 550px;
+    width: 550px;
+}
+#hei{
+    height: 550px;
+    width: 550px;
+}
+#free{
+    font-size: 70px;
+    margin-left: 20%;
+}
+#sub{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 40%;
+    font-size: 24px;
+    color: darkblue;
+}
+.us{
+    align-items: center;
+    display: flex;
+    margin: right;
+    justify-content: space-between;
+}
+span{
+    
+}
